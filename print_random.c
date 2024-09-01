@@ -1,3 +1,10 @@
+/*
+Alphin Shajan
+Operating Systems 
+Project 0: "Introduction to Git and GitHub"
+9/1/2024
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
